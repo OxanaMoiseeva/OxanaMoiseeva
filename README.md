@@ -22,7 +22,7 @@
 
 <p>Как я решала:<p>
 
-> <a href="https://ma-bug-report.atlassian.net/wiki/spaces/~6286578762e0790069a78743/pages/1310721/.+1+2+.>Ссылка на проект</a>
+> <a href="https://ma-bug-report.atlassian.net/wiki/spaces/~6286578762e0790069a78743/pages/1310721/.+1+2+.">Ссылка на проект</a>
 > <p> логин: maiceeva2012@gmail.com </p>
 > <p> пароль: OxanaM2022 </p>
 
