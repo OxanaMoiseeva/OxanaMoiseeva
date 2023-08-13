@@ -26,6 +26,16 @@
 > <p> логин: maiceeva2012@gmail.com </p>
 > <p> пароль: OxanaM2022 </p>
 
+<p>Выводы:<p>
+<ol>
+<li>Итог Nº1</li>
+<li>Итог Nº2</li>
+</ol>
+
+## КОНТАКТНАЯ ИНФОРМАЦИЯ
+- Email: maiceeva2012@gmail.com
+- LinkedIn: https://www.linkedin.com/in/oksana-moiseeva/
+
 
 
 
