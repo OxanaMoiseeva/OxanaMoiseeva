@@ -7,7 +7,7 @@
 <br> 
 
 ## НАВЫКИ И ТЕХНОЛОГИИ:
-''Jira'', ''Qase.io'', ''SQL'', ''Postman'', ''Fiddler'', ''Swagger'', ''Trello'', <br>
+``Jira``, ``Qase.io``, SQL, Postman, Fiddler, Swagger, Trello, <br>
 SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 
 ПРОЕКТЫ:
