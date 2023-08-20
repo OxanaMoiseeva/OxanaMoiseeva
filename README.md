@@ -78,7 +78,7 @@
 
 <p>Тестирую API:<p>
 
->  <a href="https://api.postman.com/collections/26927821-2f2fb780-3f0c-4880-9875-79707fd94f01?access_key=PMAT-01H84Z8JZ88X93XFG16WG3BQ0Q">Коллекция Постман</a>
+>  <a href="https://api.postman.com/collections/26927821-2f2fb780-3f0c-4880-9875-79707fd94f01?access_key=PMAT-01H84Z8JZ88X93XFG16WG3BQ0Q">Коллекция Постман расписания учителей</a>
 
 <p>Создаю коллекцию в Postman, открываю Chrom Devtools в расписании учителей и вытаскиваю запросы для своей коллекции:<p>
 
